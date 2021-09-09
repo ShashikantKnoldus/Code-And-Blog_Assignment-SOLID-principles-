@@ -7,8 +7,8 @@ public class User {
     int contactNumber;
     User(){
         userId=1234;
-        name="paras";
-        address="delhi";
+        name="Shashikant";
+        address="Muzaffarnagar";
         contactNumber= 123456789;
     }
 
